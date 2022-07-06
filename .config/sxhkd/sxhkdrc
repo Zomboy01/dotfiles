@@ -1,0 +1,46 @@
+# powermenu
+super + x
+  powermenu
+
+# screenshot
+super + s
+  screenshot select
+
+super + shift + s
+  screenshot
+
+# browser
+super + b
+  firefox 
+
+# emacs
+alt + e
+  pkill emacs ; emacs --daemon &
+
+super + e 
+  emacsclient -c
+
+# passmenu
+alt + p
+  passmenu -l 25
+
+# sound
+alt + l
+  pamixer -i 2 
+
+alt + h
+  pamixer -d 2 
+
+XF86AudioMute
+  pamixer -t
+
+# light
+alt + k
+  brillo -A 5 -q -u 300000
+
+alt + j
+  brillo -U 5 -q -u 300000
+
+# make sxhkd reload its configuration files
+super + Escape
+	pkill -USR1 -x sxhkd

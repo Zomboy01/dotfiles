@@ -1,0 +1,1315 @@
+ls
+ls
+pamixer
+pamixer -h
+pamixer -i 20
+pamixer -i 20
+pamixer -i 20
+pulseaudio
+sudo systemd-analyze
+sudo systemd-analyze blame
+sudo systemctl disable NetworkManager-wait-online.service fstrim.timer NetworkManager-dispatcher.service remote-fs.target 
+cd .config
+ls
+mkdir alacritty
+cd alacritty
+vim alacritty.yml
+paru -S xwallpaper
+cd .config/alacritty
+ls
+vim alacritty.yml
+ls
+~
+ls
+cd ~
+ls
+sudo ~
+ls
+rm .bash_history .bash_logout .bash_profile .bashrc
+ls
+cd downloads
+ls
+ git clone https://github.com/ericmurphyxyz/archrice.git
+ls
+cd dotfiles
+ls
+cd .mozilla
+ls
+cd firefox
+ls
+cd 6lmx1l6s.default-default
+ls
+lls
+ls
+cd chrome
+ls
+..
+ls
+ls
+..
+..
+ls
+..
+ls
+..
+ls
+ls
+cd dotfiles
+ls
+cd .config
+ls
+rm ~/.config/alacritty
+rm -r ~/.config/alacritty
+mv alacritty.yml ~/.config
+~/.config
+cd .config
+cd ~/.config
+ls
+mkdir alacritty
+ls
+mv alacritty.yml alacritty
+ls
+cd alacritty
+ls
+vim alacritty.yml
+paru -S nvim 
+paru -S neovim
+ls
+nvim alacritty.yml
+ls
+rm Downloads .vim .viminfo
+rm -r .vim/.netrwhist
+ls
+ls
+ls
+ls
+rm .dmrc
+cd .config
+ls
+mkdir suckless
+ls
+..
+ls
+mv dwm ~/.config/suckless
+ls
+rm Downloads
+xdg-ninja
+xdg-ninja
+ls
+rm .Xauthority .xsession-errors Downloads .lesshst 
+ls
+ls | wc -l
+xdg-ninja
+ls
+rm -r .cargo Downloads
+ls
+xdg-ninja
+ls
+rm -r .ssh .vim
+cd .config
+ls
+cd zsh
+ls
+rm .zsh_history
+ls
+ls
+startx
+nvim .zshenv
+nvim .zshenv
+reboot
+ls
+xwallpaper
+xls
+ls
+mkdir personal
+ls
+ls | wc -l
+cd personal
+ls
+mkdir pix
+ls
+cd pix
+ls
+mkdir wallpapers
+ls
+cd wallpapers
+ls
+xwallpaper --zoom $HOME/personal/pix/wallpapers/nord.png
+cd .config
+ls
+cd suckless
+ls
+cd dwm
+ls
+cd config
+ls
+cd sxhkd
+ls
+vim sxhkdrc
+..
+ls
+sudo cp sxhkd ~/.config
+ls
+sudo cp -r sxhkd ~/.config
+ls
+sxhkd
+startx
+ls
+cd .config
+ls
+cd pulse
+ls
+..
+ls
+~
+ls
+cd ~
+ls
+nvim .zshenv
+ls
+ls
+nvim .xinitrc
+sudo nvim /etc/udev/rules.d/90-backlight.rules
+ls
+sxhkd
+pkill sxhkd
+sxhkd
+pamixer -i 20
+pamixer -i 20
+pkill pulseaudio
+pulseaudio
+pamixer -i 20
+pamixer -i 20
+paru -Rns pulseaudio pamixer
+sudo pacman -S pipewire
+paru -pamixer
+paru -S pamixer 
+pamixer -i 20
+pipewire
+startx
+sudo pipewire
+sudo pacman -S pipewire-pulse
+pamixer -i 20
+nvim .xinitrc
+pamixer
+reboot
+sudo reboot
+pamixer
+pamixer
+sxhkd
+date -d
+date %d
+date d
+date A
+date (a)
+date (%a)
+cd .config
+ls
+cd suckless
+ls
+cd dwm
+ls
+cd config
+ls
+cd dwmblocks
+ls
+sudo make clean install
+~
+cd ~
+ls
+cd .local
+ls
+mkdir bin
+..
+cd .config/suckless
+ls
+cd dwm/config
+ls
+ls
+ls
+cd dwmblocks
+ls
+vim config.h
+sudo brillo -q -U 10
+brillo -q -U 10
+~
+ls
+cd ~
+ls
+cat /sys/class/backlight/acpi_video0/max_brightnesscd .con
+cat /sys/class/backlight/acpi_video0/max_brightnesscd
+ls
+paru -Rns brillo
+cd downloads
+ls
+mkdir repos
+mv paru repos
+rm archrice dotfiles
+rm -r archrice dotfiles
+ls
+cd repos
+ls
+git clone https://gitlab.com/cameronnemo/brillo.git
+ls
+cd brillo
+ls
+sudo make clean install
+brillo -q -U 10
+sudo make clean uninstall
+..
+ls
+rm -r brillo/
+y
+ls
+git clone https://gitlab.com/cameronnemo/brillo.git
+cd brillo
+ls
+make
+sudo make install.setgid
+time
+date
+sudo pacman -S man
+mn
+ls
+man date
+cd .config/suckless
+ls
+cd dwm
+ls
+ cd config dwmb
+cd config
+ls
+cd dwmblocks
+ls
+date date "+%Y %b %d (%a) $icon%I:%M%p"
+date date "+%Y %b %d (%a) $icon%I:%M%p"
+date "+%Y %b %d (%a) $icon%I:%M%p"
+cd .config/suckless/dwm/config/dwmblocks
+ls
+cat config.h
+sudo pacman -S lxappearance
+ls
+ls
+ls
+date "+%Y %b %d (%a) $icon%I:%M%p"
+date "+%Y %b %d (%a) I:%M%p"
+cd .local
+ls
+cd bin
+ls
+nvim date
+ls
+nvim clock
+ls
+chmod +xy clock
+chmod +xw clock
+ls
+dwmblocks
+ls
+nvim battery
+~
+cd ~
+cd .config
+ls
+cd alacritty
+ls
+nvim alacritty.yml
+dwmblocks
+ls
+cd .config
+ls
+~
+..
+ls
+cd .local/bin
+ls
+nvim battery
+ls
+chmod +xw battery
+dwmblocks
+ls
+nvim clock
+nvim volume
+nvim volume
+chmod +xw volume
+dwmblocks
+nvim volume
+dwmblocks
+dwmblocks
+dwmblocks
+cd .local/bin
+ls
+nvim volume
+dwmblocks
+nvim clock
+nvim volume
+dwmblocks
+nvim .xinitrc
+nvim .xinitrc
+cd .local/bin
+ls
+nvim battery
+nvim volume
+nvim .config/suckless
+cd .config/suckless/dwm
+ls
+nvim config.def.h
+sudo pacman -S emacs
+ls
+ls | wc -l
+rm .emacs.d/
+rm -r .emacs.d
+rm .viminfo
+sudo pacman -Rns vim
+ls
+rm -r  Downloads
+ls
+ls | wc -l
+git clone https://github.com/zomboy002/zomacs.git .emacs.d
+ls
+ls
+ls
+cd fir
+cd .mozilla
+l
+ls
+cd firefox
+ls
+cd 47mkesc7.default-release
+ls
+cd .mozilla/firefox/47mkesc7.default-release
+git clone https://github.com/evanswa0606/firefox-simpletheme.git chrome
+..
+ls
+rm ika1l4mw.default
+mv 47mkesc7.default-release/ zomboy
+ls
+cd 47mkesc7.default-release
+ls
+..
+ls
+cd zomboy
+ls
+ls
+ls
+..
+ls
+cd .mozilla/firefox/
+ls
+rm 47mkesc7.default-release ika1l4mw.default Crash\ Reports
+rm -r 47mkesc7.default-release ika1l4mw.default Crash\ Reports
+ls
+cd zomboy
+ls
+mv chrome ~/.mozilla/firefox
+ls
+..
+ls
+rm zomboy 47mkesc7.default-release
+rm -r zomboy 47mkesc7.default-release
+pkill firefox
+cd .mozilla/firefox/
+ls
+mkdir 47mkesc7.default-release
+cd .mozilla/firefox/
+ls
+mv chrome zomboy
+ls
+cd zomboy
+ls
+rm chrome
+rm -r chrome
+paru -S colloid-gtk-theme-git 
+cd .mozilla/firefox/
+ls
+git clone https://github.com/migueravila/SimpleFox.git
+ls
+cd SimpleFox
+ls
+mv chrome ~/.mozilla/firefox/zby
+..
+rm -R SimpleFox
+ls
+cd zby
+cd ~
+ls
+ls | wc -l
+cd personal
+ls
+sudo mount /dev/sdb1 /media/usb-drive
+cd /media/usb-drive
+ls
+cd personal
+ls
+cd pix
+ls
+cd wallpapers
+ls
+..
+cd ~
+ls
+sudo umount /dev/sdb1
+sudo eject /dev/sdb
+cd personal
+ls
+git clone https://github.com/deepjyoti30/startpage.git
+ls
+cd startpage
+ls
+rm -r .github .git .gitignore README.md LICENSE 
+ls
+nvim config.json
+ls
+firefox index.html
+ls
+nvim config.json
+..
+ls
+rm -r startpage
+git clone https://github.com/deepjyoti30/startpage.git
+cd sta
+cd startpage
+ls
+firefox index.html
+ls
+firefox index.html
+..
+ls
+git clone https://github.com/pedro-pablo/minimal-startpage-template.git
+cd minimal-startpage-template
+ls
+firefox index.html
+ls
+nvim index.html
+..
+ls
+rm -r minimal-startpage-template 
+ls
+rm startpage
+rm -r startpage
+git clone https://github.com/Jaredk3nt/homepage.git
+ls
+ls
+git clone https://github.com/Jaredk3nt/homepage.git
+ls
+cd home
+cd home/zb
+cd personal/homepage
+ks
+ls
+nvim index.html
+firefox index.html
+nvim index.html
+nvim styles.css
+ls
+nvim styles.css
+firefox index.html
+nvim styles.css
+cd ~/.mozilla/firefox/zby/chrome
+ls
+nvim userChrome.css
+cd ~/personal
+ls
+cd home
+cd ~/personal/homepage
+ls
+firefox index.html
+cd .mozilla/firefox/
+cd ~/.mozilla/firefox/
+ls
+cd zby
+ls
+cd chrome
+ls
+nvim userChrome.css
+cd ~/personal/homepage
+ls
+firefox index.html
+ls
+nvim bookmarks.js
+startx
+sudo reboot
+startx
+nvim .xinitrc
+startx
+ls
+reboot
+sudo reboot
+nvim .xinitrc
+ls
+nvim .xinitrc
+startx
+startx
+startx
+startx
+cd .config
+cd zsh
+nvim .zshrc
+..
+cd suckless/dwm
+ls
+nvim config.def.h
+sudo make clean install
+ls
+rm config.h
+sudo make clean install
+nvim config.def.h
+sudo rm config.h ; sudo make clean install
+nvim config.def.h
+sudo rm config.h ; sudo make clean install
+nvim config.def.h
+nvim config.def.h
+sudo rm config.h ; sudo make clean install
+nvim config.def.h
+sudo rm config.h ; sudo make clean install
+nvim config.def.h
+sudo rm config.h ; sudo make clean install
+nvim config.def.h
+sudo rm config.h ; sudo make clean install
+nvim config.def.h
+sudo rm config.h ; sudo make clean install
+nvim config.def.h
+sudo rm config.h ; sudo make clean install
+reboot
+poweroff
+add group
+grub
+ls
+systemctl reboot
+sudo reboot
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+ls
+ls
+nvim .xinitrc
+startx
+ls
+sudo EDITOR=nvim visudo
+paru -Q | wc -l
+paru -S emacs-all-the-icons
+cd downloads/repos
+git clone https://github.com/AdnanHodzic/auto-cpufreq.git\
+cd auto-cpufreq && sudo ./auto-cpufreq-installer
+sudo auto-cpufreq --install
+sudo systemctl start auto-cpufreq
+systemctl status auto-cpufreq
+sudo systemctl enable auto-cpufreq
+paru -Syu
+paru -S spotify-adblock spotify-remove-ad-banner
+paru -S pass
+ls
+pass
+cd personal
+ls
+nvim tutanota-pass
+ls
+gpg -k
+cd ~/.local/share
+ls
+mkdir gnupg
+ls
+cd gnupg
+ls
+..
+gpg -k
+ls
+gpg -k
+ls
+cd gnupg
+ls
+..
+gpg --full-gen-key
+gpg -k
+gpg -k
+ls
+cd downloads
+ls
+..
+cd personal
+ls
+cat tutanota-pass
+ls
+..
+ls
+xdg-ninja
+nvim .zshenv
+ls
+mkdir .config/gtk-2.0
+mv .gtkrc-2.0 .config/gtk-2.0/gtkrc
+cat .zshenv
+ls
+ls | wc -l
+ls
+sudo pacman -S lxappearance
+pass
+pass init
+pass init zomboy001.mail@tuta.io
+pass
+ls
+cd .local/bin
+ls
+..
+..
+cd .local/share
+ls
+pass
+cd ~
+ls
+rm Desktop Downloads
+rm -r Downloads Desktop
+ls
+ls | wc -l
+pass insert email/tuta/zomboy001.mail@tuta.io
+ls
+pass
+cd .local/share
+ls
+cd pass
+ls
+..
+ls
+pass
+pass email/tuta/zomboy001.mail@tuta.io 
+pass insert email/gmail/zomboy001.mail@gmail.com
+pass
+ls
+xdg-ninja
+nvim .zshenv
+mv .icons .local/share/icons
+ls
+cd .npm
+ls
+..
+ls
+rm -r .npm
+ls
+ls | wc -l
+xdg-ninja
+ls
+cd .config
+ls
+mkdir X11
+..
+ls
+mv .xinitrc .config/X11
+nvim .zshenv
+cd .config/zsh
+ls
+rm .zcompdump
+nvim .zprofile
+ls
+chmod +xw .zprofile
+ls
+chmod +xw zsh_history
+~
+cd ~
+ls
+cd personal
+ls
+cd ~
+ls
+cd .config/zsh
+ls
+nvim aliases
+ls
+cd personal
+cd ~/.config/zsh/
+nvim .zshrc
+nvim aliases
+~
+cd ~
+cd personal
+~
+cd .config/zsh
+ls
+cd .config/zsh
+nvim aliases
+ls
+startx
+mountusb
+cd /media/usb-drive
+ls
+mkdir rufus
+mkdir iso-burner
+ls
+sudo mkdir iso-burner
+ls
+sudo mv Rufus rufus-3.18p.exe rufus iso-burner
+ls
+sudo mv rufus.ini iso-burner
+ls
+cd pix
+ls
+..
+ls
+rm mace\ cetak.jpg
+cd pix
+ls
+..
+ls
+~
+ls
+mkdir a
+ls
+rm a
+sudo exa --icons -a
+pass
+ls
+pass insert spotify/zomboy002
+pass
+pass spotify/zomboy002
+poweroff
+chmod +xw /usr/bin/poweroff
+sudo chmod +xw /usr/bin/poweroff
+poweroff
+man useradd
+useradd -G
+sudo poweroff
+mountusb
+cd /media/usb-drive
+ls
+mkdir rufus
+mkdir iso-burner
+ls
+sudo mkdir iso-burner
+ls
+sudo mv Rufus rufus-3.18p.exe rufus iso-burner
+ls
+sudo mv rufus.ini iso-burner
+ls
+cd pix
+ls
+..
+ls
+rm mace\ cetak.jpg
+cd pix
+ls
+..
+ls
+~
+ls
+mkdir a
+ls
+rm a
+sudo exa --icons -a
+pass
+ls
+pass insert spotify/zomboy002
+pass
+pass spotify/zomboy002
+poweroff
+chmod +xw /usr/bin/poweroff
+sudo chmod +xw /usr/bin/poweroff
+poweroff
+man useradd
+sudo pacman -S rofi
+rofi -Show drun
+paru -Q | wc -l
+paru -Q 
+paru -S spotify-adblock spotify-remove-ad-banner
+poweroff
+sudo useradd -g zomboy zb
+useradd -G wheel zb
+sudo useradd -G wheel zb
+sudo useradd -G rfkill zb
+sudo useradd -G power zb
+sudo auto-cpufreq --stats
+pass spotify/zomboy002
+startx
+ls
+sudo mv .config/X11/.xinitrc .config/X11/xinitrc
+ls
+startx .config/X11/xinitrc
+sudo poweroff
+cd .config/suckless/dwm/config/dmenu
+ls
+rm .config.def.h.\~undo-tree\~
+sudo rm config.h ; sudo make clean install
+cd .config/suckless/dwm/config/dmenu
+rm config.h; sudo make clean install
+cd .config/suckless/dwm/config/dmenu
+rm config.h; sudo make clean install
+paru -S emacs-all-the-icons
+paru -Rns ttf-octicons
+paru -S emacs-all-the-icons
+paru -c
+ls
+ls | wc -l
+xdg-ninja
+man date
+sudo pacman -S xclip maim
+ls
+ls | wc -l
+l
+cd .local/bin
+ls
+nvim screenshot
+ls
+chmod +xw screenshot
+screenshot select
+screenshot select
+cd .local/bin
+ls
+nvim screenshot
+screenshot select
+cd personal
+ls
+cd pix
+ls
+mkdir ss
+ls
+man maim
+man date
+cd personal/pix/ss
+ls
+rm 2022-07-02-18:48:31-Screenshot 2022-07-02-Screenshot
+ls
+ls
+ls
+ls
+cd personal/pix/ss
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+rm 2022-07-02-Screenshot
+ls
+~
+ls
+cd .local/bin
+ls
+nvim screenshot
+~
+ls
+cd personal/pix/ss
+ls
+ls
+~
+ls
+cd .local/bin
+nvim screenshot
+cd personal/pix/ss
+ls
+sudo pacman -S picom
+cd .config
+ls
+mkdir picom
+ls
+cd picom
+ls
+nvim picom.conf
+pkill picom
+poweroff
+sudo poweroff
+ls
+ls | wc -l
+sudo pacman -S stow
+ls
+mkdir .dotfiles
+poweroff
+sudo poweroff
+nmtui
+nmtui
+sudo poweroff
+pass
+pass insert github/zomboy01
+chown -R $(whoami) ~/.local/share/gnupg
+cd .local/share
+ls
+chmod 600 gnupg
+chmod 700 gnupg
+pass
+pass github/zomboy01
+ls
+pas
+pass
+pass insert email/tuta/zomboy001.recovery-code
+pass insert email/tuta/zomboy001.recovery-code
+ls
+pass
+pass insert github/pat
+ls
+ls | wc -l
+ls
+ls
+rm Downloads
+ls
+rm .pki
+ls
+pass
+ls
+ls
+cd .config
+ls
+cd suckless
+ls
+cd dwm
+ls
+rm .config.def.h.\~undo-tree\~
+ls
+cd config
+ls
+cd dmenu
+ls
+rm .config.def.h.\~undo-tree\~
+..
+ls
+ls
+cd sxhkd
+ls
+..
+ls
+mv dmenu dwmblocks ~/.config/suckless
+..
+..
+ls
+..
+ls
+cd suckless/dwm/config
+ls
+..
+ls
+rm config
+..
+ls
+ls
+..
+ls
+cd suckless/dwm
+ls
+rm .git LICENSE
+..
+ls
+..
+ls
+~
+ls
+cd downloads
+ls
+cd repos
+ls
+git clone https://github.com/nsxiv/nsxiv.git
+ls
+cd nsxiv
+ls
+ls
+nvim config.def.h
+..
+..
+~
+cd .config
+ls
+mkdir nvim
+cd nvim
+ls
+ls
+nvim init.vim
+nvim
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \\
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+nvim
+cd .config/nvim
+ls
+nvim init.vim
+nvim
+nvim init.vim
+nvim init.vim
+nvim init.vim
+nvim init.vim
+nvim
+cd .config/nvim
+ls
+nvim init.vim
+mkdir ~/.config/nvim/lua
+nvim ~/.config/nvim/lua/plug-colorizer.lua
+ls
+nvim init.vim
+cd downloads/repos
+ls
+cd nsxiv
+ls
+nvim config.def.h
+nvim config.def.h
+nvim config.def.h
+nvim
+nvim
+nvim a
+ls
+cd .config/nvim
+ls
+nvim init.vim
+nvim a
+ls
+nvim init.vim
+rm lua
+nvim lua
+mkdir ~/.config/nvim/lua
+nvim ~/.config/nvim/lua/plug-colorizer.lua
+nvim la
+\:w
+..
+ls
+cd .config/nvim
+cd nvim
+ls
+ls
+nvim init.vim
+nvim a
+ls
+~
+cd downloads/repos/nsxiv
+ls
+nvim config.def.h
+cd .config/nvim
+..
+cd suckless/dwm
+ls
+nvim config.def.h
+cd downloads/repos/nsxiv
+make
+nvim config.def.h
+nvim config.def.h
+nvim config.def.h
+nvim config.def.h
+nvim config.def.h
+make
+make install-all
+..
+ls
+rm nsxiv
+git clone https://github.com/nsxiv/nsxiv.git
+cd nsxiv
+..
+ls
+cd nvim
+cd ~
+cd downloads/repos/nsxiv
+ls
+make
+nvim nsxiv.h
+make
+..
+rm nsxiv
+cd downloads/repos/
+git clone https://codeberg.org/nsxiv/nsxiv.git
+ls
+cd nsxiv
+sudo make
+touch Imlib2.h
+ls
+sudo make
+poweroff
+sudo poweroff
+ls
+cd .local/share
+ls
+ls
+cd .local/share
+;s
+ls
+..
+..
+nvim .zshenv
+cd .config
+ls
+cd suckless
+ls
+cd dwm
+ls
+nvim config.def.h
+man nsxiv
+personal
+cd personal
+ls
+cd pix
+lls
+ls
+cd wallpapers
+ls
+nsxiv -f nord.png
+cd .config
+ls
+rm picom
+l
+sudo pacman -Syu
+ls
+ls
+sudo pacman -Rns pipewire-media-session
+ls
+..
+ls
+cd downloads/repos/
+ls
+rm nsxiv
+ls
+git clone https://codeberg.org/nsxiv/nsxiv.git
+cd nsxiv
+ls
+make
+paru -S nsxiv
+ls
+make
+nvim config.def.h
+make
+ls
+rm config.h
+make install-all
+sudo make install-all
+~
+ls
+cd personal
+ls
+cd pix
+ls
+cd ss
+ls
+nsxiv 2022-07-02-1656759
+nsxiv 2022-07-02-1656759452-Screenshot
+..
+ls
+cd alacritty
+~
+ls
+cd zsh
+ls
+nvim aliases
+gitname
+gitmail
+ls
+~
+ls
+mkdir .config/git
+mv .gitconfig .config/git/config
+gitname
+ls
+gitmail
+ls
+cd con
+cd .config
+ls
+sudo pacman -S mpv
+ls
+mv alacritty git nvim suckless sxhkd zsh X11 ~/.dotfiles
+ls
+cd sxhkd
+ls
+mv ~/.dotfiles
+..
+ls
+cd s
+cd sxhkd
+ls
+..
+sudo mv sxhkd ~/.dotfiles
+ls
+~
+ls
+ls
+cd .dotfiles
+ls
+mkdir .config
+ls
+sudo mv alacritty git nvim suckless sxhkd X11 zsh .config
+ls
+..
+ls
+mv .emacs.d .zshenv .local .dotfiles
+cd .dotfiles
+stow .
+ls
+..
+ls
+cd .config
+~
+mv downloads .dotfiles
+ls
+cd .dotfiles
+ls
+mv downloads ~
+~
+ls
+cd downloads
+ls
+ls
+cd repos
+ls
+mv nsxiv ~/.dotfiles/.config/suckless
+~
+cd .dotfiles
+cd .config
+ls
+cd suckless
+ls
+cd dwm
+ls
+..
+ls
+cd nsxiv
+ls
+sudo poweroff
+poweroff
+sudo poweroff
+poweroff
+sudo poweroff
+ls
+cd .config
+ls
+sudo poweroff
+cd zsh
+ls
+cd gnupg
+~
+cd zsh
+nvim aliases
+cd nvim
+ls
+nv init.vim
+ls
+zsh
+cd nvim
+nv init.vim
+cd zsh
+ls
+nvim aliases
+cd nvim
+cd nvim
+ls
+nv init.vim
+mkdir themes
+nvim ~/.config/nvim/themes/airline.vim
+nv init.vim
+nv
+cd nvim
+ls
+nv init.vim
+cd themes
+ls
+nv airline.vim
+nv airline.vim
+nvim ~/.config/nvim/themes/airline.vim
+nvim airline.vim
+nvim airline.vim
+..
+nv init.vim
+nv init.vim
+cd nvim
+nv init.vim
+nv init.vim
+nv themes/airline.vim
+nv init.vim
+sudo poweroff

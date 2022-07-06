@@ -1,0 +1,42 @@
+###---------- ALIASES ----------###
+
+#update
+alias grub="sudo grub-mkconfig -o /boot/grub/grub.cfg"
+
+#navigate files and directories
+alias ..="cd .."
+alias ls="exa -a --icons"
+alias ~="cd ~"
+
+#media
+alias view="nsxiv -f"
+
+#Gnu Coreutilities
+alias rm="sudo rm -r"
+alias cp="cp -r"
+
+#to lazy to tyze usb command
+alias mountusb="sudo mount /dev/sdb1 /media/usb-drive"
+alias umountusb="sudo umount /dev/sdb1"
+alias ejectusb="sudo eject /dev/sdb"
+
+#git
+alias status="git status"
+alias push="git push origin"
+alias pull="git pull origin"
+alias commit="git commit -m"
+alias add="git add "
+alias gitname="git config --global user.name  "Zomboy""
+alias gitmail="git config --global user.email "zomboy001.mail@tuta.io""
+alias ginit="git init"
+alias remote="git remote add origin"
+alias config="/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME"
+alias wm="/usr/bin/git --git-dir=$HOME/.local/git/windowmanagers/ --work-tree=$HOME"
+
+#editor
+alias nv="nvim"
+
+#youtube
+alias ytm="youtube-dl --extract-audio --audio-format mp3"
+alias ytv="youtube-dl -f bestvideo+bestaudio"
+

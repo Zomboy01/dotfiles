@@ -1,0 +1,9 @@
+#! /bin/sh
+
+case "$1" in
+  "select") maim --select | tee ~/personal/pix/ss/$(date +%Y-%m-%d-%s-Screenshot) | xclip -selection clipboard -t image/png || exit ;;
+  "window") maim | tee ~/personal/pix/ss/$(date +%Y-%m-%d-%s-Screenshot) | xclip -selection clipboard -t image/png || exit ;;
+  *) maim "$output" || exit ;;
+esac
+
+#notify-send "Screenshot taken"
