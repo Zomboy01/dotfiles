@@ -1,1 +1,1 @@
-date "+ %Y %b %d (%a)   %I:%M%p ]"
+date "+ %a, %d %b ] [  %I:%M%p ]"
