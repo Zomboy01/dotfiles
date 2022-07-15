@@ -21,7 +21,7 @@ filetype plugin on
 
 call plug#begin()
  Plug 'vim-airline/vim-airline'
- Plug 'vim-airline/vim-airline-themes'
+ Plug 'jiangmiao/auto-pairs'
  Plug 'arcticicestudio/nord-vim'
  Plug 'lilydjwg/colorizer'
 call plug#end()
@@ -40,10 +40,6 @@ set splitbelow
 
 " Press i to enter insert mode, and ii to exit insert mode.
 :inoremap ii <Esc>
-:inoremap jk <Esc>
-:inoremap kj <Esc>
-:vnoremap jk <Esc>
-:vnoremap kj <Esc>
 
 " copies filepath to clipboard by pressing yf
 :nnoremap <silent> yf :let @+=expand('%:p')<CR>
