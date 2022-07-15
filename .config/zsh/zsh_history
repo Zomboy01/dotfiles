@@ -1313,3 +1313,888 @@ nv init.vim
 nv themes/airline.vim
 nv init.vim
 sudo poweroff
+cd nvim
+nv init.vim
+nv init.vim
+ls
+..
+ls
+..
+cd .dotfiles
+ls
+ls
+cd .local
+ls
+cd share
+ls
+cd pass
+pass
+pass -h
+pass git init
+man pass
+pass git push
+pass git remote add origin https://github.com/Zomboy01/pass.git
+pass git push
+pass git push origin
+pass git push 
+ git push --set-upstream origin master
+pass git push
+pass
+pass
+~
+ls
+cd .dotfiles
+ls
+nvim .gitignore
+ls
+git init
+git branch -M main
+git remote add origin https://github.com/Zomboy01/dotfiles.git
+git add .
+cd .emacs.d
+ls
+rm .config.org.\~undo-tree\~ .init.el.\~undo-tree\~ .git 
+ls
+nvim .gitignore
+ls
+rm auto-save-list elpa img org-roam.db recentf transient 
+ls
+rm config.el 
+ls
+cat .gitignore
+ls
+..
+git add .
+commit "first commit dotfiles"
+push
+git push -u origin main
+status
+cd .config/suckless
+ls
+cd nsxiv
+ls
+rm .git .github
+..
+ls
+..
+..
+ls
+git 
+status
+git add .
+commit "second commit"
+git add .config/suckless/nsxiv
+commit "second commit"
+cd nvim
+nv init.vim
+pamixer -i 20
+pamixer -h
+poweroff
+sudo poweroff
+sudo poweroff
+sudo systemd-analyze 
+sudo systemd-analyze blame
+sudo pacman -Syu
+paru -Syu
+sudo poweroff
+pamixer -h
+pamixer --get-volume
+pamixer -h
+pamixer --get-volume-human
+pulseaudio
+paru -S pipewire-pulse
+pamixer -i 29
+
+
+sudo pacman -S pipewire
+pipestatus
+pamixer -i 29
+sudo reboot
+pamixer -i 29
+pipewire-pulse
+pamixer -i 29
+pipewire
+paru -Rns pipewire-pulse
+pamixer -i 29
+paru -Syu
+ls
+rm Downloads .pki
+ls | wc -l
+sudo reboot
+sudo pacman -S pipewire-pulse
+pamixer -i 29
+pamixer -i 29
+pipewire-pulse
+pamixer -i 29
+pamixer -i 29
+systemctl --user enable --now pipewire-pulse.service
+pamixer -i 29
+pactl list short sinks
+pactl set-default-sink
+pactl set-default-sink61
+pactl set-default-sink auto_null
+pactl set-default-sink 61
+pactl set-default-sink float32le
+pactl list short sinks
+pamixer -i 29
+pamixer -h
+pamixer -list-sinks
+pamixer --list-sinks
+pamixer --get-default-sink
+pamixer --get-default-sink
+cd zsh
+ls
+nvim zsh_history 
+pactl load-module module-pipe-sink file=/tmp/snapfifo sink_name=Snapcast format=s16le rate=48000\
+
+pactl list short sinks\
+
+pactl set-default-sink 536870913
+pactl set-default-sink Snapcast
+pactl set-default-sink 817
+pactl set-default-sink PipeWire
+pamixer -i 29
+paru -Rns pipewire-pulse pipewire
+sudo pacman -S pipewire pipewire-pulse
+sudo pacman -Syu
+paru -Rns pipewire-pulse pipewire
+sudo pacman -S pulseaudio
+pamixer -i 29
+pamixer -i 29
+pamixer -i 29
+pamixer -i 29
+reboot
+ls
+ls | wc -l
+paru -S onlyoffice-bin
+groups
+groups
+usermod -aG lp sys network scanner power libvirt rfkill users video storage optical audio realtime zb
+# usermod -aG lp sys network scanner power libvirt rfkill users video storage optical audio realtime zb
+usermod -aG lp sys network scanner power libvirt rfkill users video storage optical audio realtime zb
+groups
+usermod -aG lp  zb
+usermod -aG lp zb
+sudo usermod -aG lp sys network scanner power libvirt rfkill users video storage optical audio realtime zb
+sudo usermod -aG lp sys network scanner power libvirt rf zb
+sudo usermod -aG lp zb
+groups
+sudo usermod -aG audio zb
+groups
+sudo usermod -aG sys zb
+sudo usermod -aG network zb
+sudo usermod -aG power zb
+groups
+sudo usermod -aG libvirt zb
+sudo usermod -aG users zb
+sudo usermod -aG video zb
+sudo pacman -S cups
+sudo systemctl enable --now cups
+sudo pacman -S system-config-printer
+paru -S epson-inkjet-printer-201401w
+nv .zshenv
+ls
+xdg-ninja
+cd personal/pix/wallpapers
+ls
+cd nord-theme
+ls
+mv nord.png wild.png
+ls
+xwallpaper --zoom $HOME/personal/pix/wallpapers/nord-theme/the-great-wave.png
+xwallpaper --zoom $HOME/personal/pix/wallpapers/nord-theme/wil
+xwallpaper --zoom $HOME/personal/pix/wallpapers/nord-theme/wild.png
+ls
+xwallpaper --zoom $HOME/personal/pix/wallpapers/nord-theme/underwater.png
+cd X11
+ls
+nv xinitrc
+nv xinitrc
+cd zsh
+ls
+cd nvim
+ls
+nv init.vim
+nv
+nv
+ls
+cd alacritty
+ls
+nv alacritty.yml
+ls
+ls
+ls
+ls
+cd .config
+ls
+cd X11
+ls
+..
+cd nvim
+ls
+~
+ls
+mv .promptline.sh .config/zsh
+cd zsh
+ls
+cd .zsh
+ls
+..
+ls
+mv .promptline.sh .zsh
+cd .zsh
+ls
+ls
+..
+ls
+ls
+nv .zshrc
+cd .zsh
+ls
+mv .promptline.sh promptline.sh
+..
+ls
+nv .zshrc
+ls
+ls | wc -l
+ls
+rm Downloads
+cd alacritty
+nv alacritty.yml
+nv
+ls
+cd zsh
+ls
+nv .zshrc
+ls
+~
+ls
+nv .promptline.sh
+sudo poweroff
+cd .config
+ls
+cd suckless/dwm
+ls
+nv config.def.h
+sudo make clean install
+..
+..
+ls
+cd alacritty
+nv alacritty.yml
+ls
+rofi -sidebar-mode \\
+-modi run,drun,window \\
+-lines 12 \\
+-padding 18 \\
+-width 60 \\
+-location 0 \\
+-show drun \\
+-columns 3 \\
+-font "Hack Nerd Font 12"
+rofi -sidebar-mode \\
+-modi run,drun,window \\
+-lines 12 \\
+-padding 18 \\
+-width 60 \\
+-location 0 \\
+-show drun \\
+-columns 3 \\
+-font "FiraCode Nerd Font 12"
+[ "$(printf "No\\nYes" | dmenu -i -p "$1" -nb darkred -sb red -sf white -nf gray )" = "Yes" ] && $2
+shutdown -h now
+paru -Q | wc -l
+sudo pacman -S gimp
+sudo systemd-analyze
+cd zsh
+cd .zsh
+ls
+nv promptline.sh
+ls
+cd suckless/dwm
+ls
+nv config.def.h
+sudo make clean install
+sudo rm config.h ; sudo make clean install
+ls
+nv config.def.h
+sudo rm config.h ; sudo make clean install
+sudo rm config.h ; sudo make clean install
+nv config.def.h
+rm config.h
+sudo make clean install
+nv config.def.h
+sudo rm config.h ; sudo make clean install
+startx
+startx .config/X11/xinitrc
+startx .config/X11/xinitrc
+startx .config/X11/xinitrc
+startx .config/X11/xinitrc
+startx .config/X11/xinitrc
+shutdown -h now
+sudo systemd-analyze
+sudo systemd-analyze blame
+ls
+sudo nv /etc/default/grub
+sudo nvim /etc/default/grub
+sudo nvim /etc/grub.d/31_hold_shift
+chmod a+x /etc/grub.d/31_hold_shift
+sudo chmod a+x /etc/grub.d/31_hold_shift
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+grub
+groups
+groups
+ls
+ls
+cd suckless/dwm
+nv config.def.h
+shutdown -h now
+reboot
+ls
+ls | wc -l
+cd .config
+ls
+..
+ls
+cd downloads
+ls
+mv repos ~/Downloads
+..
+ls
+rm downloads
+cd Downloads
+ls
+..
+ls
+ls
+ls
+groups
+nvim help
+nv -h
+nv
+cdn vim
+cd nvim
+nv init.vim
+nv
+cd nvim
+nv init.vim
+~
+ls
+cd .emacs.d
+ls
+nv config.org
+nv
+ls
+cd .e
+ls
+cd .dotfiles
+ls
+cd .emacs.d
+ls
+ls
+rm .git .gitignore 
+ls
+cd img
+ls
+view Emacs-Screen.png
+rm Emacs-Screen.png
+..
+ls
+nv init.el
+nv config.org
+ls
+rm .emacs.d
+cd .dotfiles
+ls
+rm .emacs.d
+git clone https://github.com/zomboy002/zomacs.git .emacs.d
+sudo pacman -S thefuck
+pacman -Syu
+fuck
+sudo pacman -Rns thefuck
+cd zsh
+nv .zshrc
+nvim tutor
+nvim
+nvim
+nvim
+ls
+picom
+ls
+ls | wc -l
+blt="$(xbacklight -get | cut -c -3)"\
+	echo -e "ïƒ¦ƒ¥ $blt"
+cd .config
+ls
+rm thefuck 
+ls
+cd suckless
+ls
+git clone https://github.com/AlexMuxika/config.git
+ls
+cd config
+ls
+ls
+mkdir ~/.config/picom
+mv picom.conf ~/.config/picom
+..
+..
+cd suckless/config
+ls
+mv st ~/.config/suckless
+ls
+..
+ls
+rm config
+paru -S picom-jonaburg-fix
+picom
+cd suckless
+ls
+cd st
+ls
+nv config.def.h.orig
+sudo make clean install
+make
+ls
+sudo make install
+sudo make
+sudo pacman -S xlib
+clear
+sudo pacman -S xlib
+rm /var/lib/pacman/db.lck
+sudo pacman -S xlib
+nv config.mk
+sudo make clean install
+make
+    make clean install
+make clean install
+ls
+mv config.def.h.orig config.def.h
+sudo make clean install
+make
+sudo make clean install
+picom
+picom
+cd .local/bin
+ls
+nv clock
+cd picom
+ls
+nv picom.conf
+cd share
+ls
+~
+ls
+ls | wc -l
+xdg-ninja
+ls
+mv .pki .local/share/pki
+cd share
+ls
+..
+cd bin
+ls
+config
+~/.config
+usermod -aG storage zb
+sudo usermod -aG storage zb
+groups
+~/.config
+cd nvim
+ls
+nv init.vim
+nv
+nv asf
+sudo pacman -Syu
+paru -c
+cd suckless
+ls
+paru -S st-git 
+ls
+cd st
+make
+sudo make clean install
+st
+ls
+ls
+nv
+ls
+ls
+ls
+ls
+ls
+sudo pacman -Rns st-git
+cd suckless
+ls
+rm st
+git clone https://git.suckless.org/st
+cd st
+ls
+~
+cd suckless
+ls
+git clone https://github.com/Randomguy-8/DWM-dotfile.git
+ls
+cd DWM-dotfile
+ls
+ls
+cd HOME
+ls
+cd Source
+ls
+cd st
+l
+ls
+sudo make clean install
+ls
+nv config.def.h
+nv config.h
+sudo make clean install
+ls
+nv config.h
+~
+cd suckless
+ls
+cd st
+ls
+mkdir patches
+cd patches
+ls
+..
+ls
+nv config.def.h
+ls
+cd patches
+ls
+curl https://st.suckless.org/patches/scrollback/st-scrollback-0.8.5.diff
+ls
+curl https://st.suckless.org/patches/scrollback/st-scrollback-0.8.5.diff
+man curl
+ls
+st
+ls
+ls
+ls
+ls
+ls
+cd suckless/st
+ls
+cd patches
+ls
+curl https://st.suckless.org/patches/nordtheme/st-nordtheme-0.8.5.diff
+ls
+curl https://st.suckless.org/patches/nordtheme/st-nordtheme-0.8.5.diff --output
+ls
+ls
+..
+patch -pi < patches/st-nordtheme-0.8.5.diff
+patch -p1 < patches/st-nordtheme-0.8.5.diff
+make
+sudo make clean install
+ls
+cd patches
+ls
+..
+patch -p1 < patches/st-scrollback-0.8.5.diff
+nv config.def.h
+rm config.h; sudo make clean install
+nv config.def.h
+rm config.h; sudo make clean install
+nv config.def.h
+rm config.h; sudo make clean install
+cd alacritty
+ls
+nv alacritty.yml
+cd suckless/st
+ls
+cd patches
+ls
+..
+ls
+patch -p1 < patches/st-scrollback-0.8.5.diff
+n
+cd suckless/st
+ls
+nv config.def.h
+ls
+ls
+cd suckless/st
+ls
+nv config.def.h
+rm config.h; sudo make clean install
+ls
+ls
+ls
+cd suckless
+ls
+rm DWM-dotfile/
+ls
+cd dwm
+ls
+nv config.def.h
+ls
+rm config.h; sudo make clean install
+KKJKJKJKJ
+
+
+
+ls
+ls
+startx
+startx .config/X11/xinitrc
+ls
+cd .config
+ls
+cd nvim
+ls
+nv init.vim
+cd suckless/st
+ls
+nv config.def.h
+ls
+ls
+nv i
+a
+
+cd suckless/st
+ls
+nv config.def.h
+cd patches
+ls
+ls
+..
+ls
+patch -p1 < patches/st-scrollback-mouse-20170427-5a10aca.diff
+mv patches suckless
+..
+ls
+ls
+cd st
+ls
+cd suckless
+ls
+..
+cd suckless ~/.config/suckless/patches-st
+..
+ls
+cd st
+ls
+mv suckless ~/.config/suckless/patches-st
+..
+ls
+rm st
+ls
+git clone https://github.com/Randomguy-8/DWM-dotfile.git
+ls
+cd suckless/st
+cd suckless
+ls
+git clone https://git.suckless.org/st
+ls
+mv patches-st st
+ls
+cd st
+ls
+ls
+nvim config.def.h
+ls
+cd patches-st
+ls
+..
+patch -p1 < patches-st/st-nordtheme-0.8.5.diff
+patch -p1 < patches-st/st-scrollback-0.8.5.diff
+patch -p1 < patches-st/st-scrollback-mouse-20220127-2c5edf2.diff
+patch -p1 < patches-st/st-scrollback-mouse-altscreen-20220127-2c5edf2.diff
+sudo make 
+nvim config.def.h
+sudo make clean install
+cd suckless/
+ls
+cd patches-st
+ls
+rm st-scrollback-mouse-20170427-5a10aca.diff
+ls
+..
+ls
+cd DWM-dotfile
+ls
+cd HOME/Source
+ls
+cd st
+ls
+nv im config.def.h
+ls
+nvim config.h
+ls
+ls
+cd suckless
+ls
+cd DWM-dotfile/HOME/Source/st
+ls
+nvim config.h
+ls
+paru -S vimix-cursor
+paru -S vimix-cursors
+ls
+ls | wc -l
+xdg-ninja
+ls
+mv .zshenv /etc/zsh/zshenv
+ls
+sudo mv .zshenv /etc/zsh/zshenv
+ls
+cd personal
+ls
+cd /media/usb-drive
+ls
+..
+mountusb
+cd /media/usb-drive
+ls
+cat packages.txt
+nvim packages.txt
+cd ~
+ls
+cd personal
+ls
+sudo mv tutanota-pass /media/usb-drive
+ls
+/media/usb-drive
+groups
+ls
+cd /media/usb-drive
+ls
+\:q
+cd suckless
+ls
+rm DWM-dotfile
+ls
+cd dmenu
+ls
+nvim config.def.h
+rm config.h; sudo make clean install
+cd suckless
+ls
+ls
+cd sxhkd
+ls
+nvim sxhkdrc
+nvim sxhkdrc
+nvim sxhkdrc
+ls
+nvim sxhkd
+ls
+nvim sxhkdrc
+cd sxhkd
+ls
+nvim sxhkdrc
+cd sxhkd
+cat sxhkdrc
+startx .config/X11/xinitrc
+startx
+startx
+sudo pacman -S xorg-xinit
+sudo
+zsh
+exit
+cd .config
+ls
+rm sxhkd
+mkdir sxhkd
+nvim sxhkdrc
+nvim sxhkdrc
+..
+ls
+cd .config
+ls
+mv sxhkdrc sxhkd
+umountusb
+ejectusb
+ls
+picom
+sudo mv /etc/zsh/zshenv ~/.zshenv
+sudo pacman -S xorg-xinit 
+picom
+picom
+picom
+picom
+picom
+picom -h
+picom
+picom
+man picom
+picom --experimental-backends
+picom --experimental-backends
+picom --experimental-backends
+picom --experimental-backends
+picom --experimental-backends
+picom --experimental-backends
+picom --experimental-backends
+picom --experimental-backends
+cd suckless
+ls
+cd st
+ls
+cd patches-st
+ls
+ls
+..
+patch -p1 < patches-st/st-alpha-20220206-0.8.5.diff
+..
+cd st
+rm config.h; sudo make clean install
+nvim config.def.h
+rm config.h; sudo make clean install
+ls
+paru -Rns picom-jonaburg-fix
+sudo pacman -S picom
+ls
+ls | wc -l
+ls
+cd picom
+ls
+nvim picom.conf
+cd suckless
+ls
+cd st
+ls
+nvim config.def.h
+rm config.h; sudo make clean install
+ls
+cd nvim
+ls
+~
+ls
+cd X11
+ls
+nvim xinitrc
+sudo pacman -Syu
+grub
+pamixer -h
+pamixer -allow-boost 
+pamixer -allow-boost -i 10
+pamixer -allow-boost -i 10%
+pamixer --allow-boost -i 10%
+pamixer -allow-boost -i 10
+pamixer --allow-boost -i 10
+pamixer --allow-boost -i 10
+pamixer --allow-boost -i 10
+pamixer --allow-boost -i 10
+pamixer --allow-boost -d 10
+cd sxhkd
+ls
+nv sxhkdrc
+cd suckless/d
+cd suckless/dwm
+ls
+nvim config.def.h
+cd suckless
+ls
+cd st
+ls
+nvim config.def.h
+rm config.h; sudo make clean install
+sudo pacman -
+picom --experimental-backends
+pkill picom
+picom --experimental-backends
