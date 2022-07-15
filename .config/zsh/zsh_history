@@ -2198,3 +2198,113 @@ sudo pacman -
 picom --experimental-backends
 pkill picom
 picom --experimental-backends
+ls
+cd .config
+ls
+ls
+~
+cd .dotfiles
+ls
+status
+git add .config/suckless/st/
+cd .su
+cd suckless
+ls
+ls
+cd nsxiv
+ls
+..
+ls
+cd st
+ls
+rm .git 
+..
+cd .do
+cd ~/.dotfiles
+ls
+status
+git add .config/suckless/st/
+git restore --staged .config/suckless/st
+git add .config/suckless/st/
+ls
+status
+git add .config/zsh/.zsh/promptline.sh
+status
+sudo pacman -Rns pulseaudio
+sudo pacman -S pipewire pipewire-pulse
+ls
+status
+commit "st terminal"
+status
+git add .config/X11/xinitrc
+commit "xinitrc"
+git addd .config/alacritty
+git addd .config/alacritty/alacritty.yml
+git add .config/alacritty/alacritty.yml
+git add .config/alacritty/alacritty.yml
+commit "alacrittyf"
+status
+git add .config/nvim/
+commit "neovim config"
+status
+git add .config/suckless/
+commit "suckless"
+status
+git add .config/zsh/
+commit "zshrc"
+status
+git add .zshenv
+commit "to clean dirs"
+ls
+nvim .gitignore
+status
+git add .gitignore
+commit "ignore this one"
+status
+git add .local/bin/
+commit "bin udin"
+push
+push
+push
+ls
+cd state
+ls
+cd pipewire
+ls
+..
+ls
+rm pipewire
+ls
+cd .emacs.d
+ls
+..
+ls
+rm .emacs.d
+cd .dotfiles
+ls
+cd .emacs.d
+ls
+..
+stow .
+ls
+cd .config
+ls
+cd ~
+ls
+cd .config
+ls
+mv sxhkd ~
+cd ~
+ls
+cd sxhkd 
+ls
+..
+cd .dotfiles
+ls
+cd .config
+ls
+rm sxhkd
+~
+mv sxhkd .dotfiles/.config
+cd .dotfiles
+stow .

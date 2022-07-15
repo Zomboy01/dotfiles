@@ -1,7 +1,0 @@
-{
- "restore.stream.Output/Audio.application.name:Firefox": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] },
- "restore.stream.Audio/Sink.node.name:auto_null": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] },
- "restore.stream.Audio/Source.node.name:alsa_input.pci-0000_00_1b.0.analog-stereo": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] },
- "restore.stream.Audio/Sink.node.name:alsa_output.pci-0000_00_1b.0.analog-stereo": { "volume": 1.000000, "mute": false, "volumes": [ 0.368289, 0.368289 ], "channels": [ "FL", "FR" ] },
- "restore.stream.Output/Audio.media.role:Music": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] }
-}
