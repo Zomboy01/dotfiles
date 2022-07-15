@@ -1,7 +1,3 @@
-# powermenu
-super + x
-  powermenu
-
 # screenshot
 super + s
   screenshot select
@@ -11,13 +7,13 @@ super + shift + s
 
 # browser
 super + b
-  firefox 
+  firefox
 
 # emacs
 alt + e
   pkill emacs ; emacs --daemon &
 
-super + e 
+super + e
   emacsclient -c
 
 # passmenu
@@ -26,10 +22,10 @@ alt + p
 
 # sound
 alt + l
-  pamixer -i 2 
+  pamixer --allow-boost -i 2
 
 alt + h
-  pamixer -d 2 
+  pamixer --allow-boost -d 2
 
 XF86AudioMute
   pamixer -t
@@ -43,4 +39,4 @@ alt + j
 
 # make sxhkd reload its configuration files
 super + Escape
-	pkill -USR1 -x sxhkd
+        pkill -USR1 -x sxhkd
