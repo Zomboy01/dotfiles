@@ -2308,3 +2308,493 @@ rm sxhkd
 mv sxhkd .dotfiles/.config
 cd .dotfiles
 stow .
+cd suckless
+ls
+mv nsxiv ~
+~
+ls
+cd .dotfiles
+ls
+status
+git add .config/suckless/
+git commit "forget to delete .git in nsxiv ;v"
+commit "forget to delete .git in nsxiv ;v"
+push
+~
+ls
+mv nsxiv .dotfiles/.config/suckless
+cd .dotfiles
+ls
+status
+git add .config/suckless/
+ls
+push 
+commit "now it should be fine"
+push
+ls
+cd .emacs.d
+ls
+status
+..
+ls
+status
+git add .config/sxhkd/
+commit "my keybinding"
+status
+nvim .gitignore
+nvim .gitignore
+\:q
+nvim .gitignore
+status
+git add .gitignore
+commit "ignore this one"
+status
+nvim .gitignore
+ls
+git add .gitignore
+commit "ignore this one"
+status
+git rm .config/zsh/zsh_history .local/state/
+status
+status
+git add .
+status
+commit "garbage things"
+ls
+ls
+push
+push
+mv .emacs.d ~
+mv .emacs.d ~/
+ls
+~
+ls
+cd .emacs.d
+ls
+..
+ls
+rm .emacs.d
+cd .dotfiles
+ls
+mv .emacs.d ~
+status
+git add .emacs.d
+status
+commit "forget to remove the .git thing"
+ls
+status
+..
+ls
+cd .dotfiles
+ls
+push 
+push 
+..
+ls
+mv .emacs.d .dotfiles
+ls
+cd .dotfiles
+ls
+status
+git add .emacs.d/
+commit "emacs.D"
+push
+push
+push
+~
+cd .dotfiles
+ls
+cd .config
+ls
+cd suckless
+ls
+cd ~
+ls
+cd .emacs.d
+ls
+..
+rm .emacs.d
+stow .
+cd .dotfiles
+stow .
+ls
+~
+ls
+ls | wc -l
+rm .icons
+cd .local/share
+ls
+rm icons
+~
+mv .icons share
+ls
+mv share .local/share/icons
+ls
+ls | wc -l
+cd .config
+ls
+mv picom ~/.dotfiles/.config
+poweroff
+shutdown -h now
+sudo poweroff
+poweroff
+sudo poweroff
+sudo poweroff
+cd Downloads
+ls
+ls
+rm Dot
+rm dotfiles-DWM.zip
+ls
+..
+ls
+cd Downloads
+ls
+mv 011840400_1627986662-20201011184932-1-9-macam-kunci-gitar-dasar-bagi-pemula-mudah-dipraktikkan-001-ayu-isti.jpg kunci-gitar.jpg
+ls
+view kunci-gitar.jpg
+sudo pacman -Syu
+cd suckless/st
+ls
+cd patches-st
+ls
+cd Downloads
+ls
+view kunci-gitar.jpg
+poweroff
+groups
+sudo poweroff
+cd Downloads
+ls
+mpv Chord\ Gampang\ \(Di\ Atas\ Normal\ -\ Peterpan\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4
+mpv Chord\ Gampang\ \(Di\ Atas\ Normal\ -\ Peterpan\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4
+mpv Chord\ Gampang\ \(Di\ Atas\ Normal\ -\ Peterpan\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4 -f
+mpv Chord\ Gampang\ \(Di\ Atas\ Normal\ -\ Peterpan\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4
+cd Downloads
+ls
+rm mpv-shot000 mpv-shot0002.jpg
+mpv -h
+cd Downloads
+mpv Chord\ Gampang\ \(Di\ Atas\ Normal\ -\ Peterpan\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4
+mpv Chord\ Gampang\ \(Di\ Atas\ Normal\ -\ Peterpan\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4
+mpv Chord\ Gampang\ \(Di\ Atas\ Normal\ -\ Peterpan\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4
+mpv Chord\ Gampang\ \(Di\ Atas\ Normal\ -\ Peterpan\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4
+mpv Chord\ Gampang\ \(Di\ Atas\ Normal\ -\ Peterpan\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4
+mpv Chord\ Gampang\ \(Di\ Atas\ Normal\ -\ Peterpan\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4
+cd Downloads
+ls
+view kunci-gitar.jpg
+sudo poweroff
+cd personal
+ls
+mkdir tugas
+cd ~/D
+cd ~/Downloads
+ls
+view kunci-gitar.jpg
+sudo poweroff
+cd ~/Downloads
+ls
+nvim y2mate.com\ -\ Chord\ Gampang\ Ripped\ Pants\ Spongebob\ by\ Arya\ Nara\ Tutorial\ Gitar\ Untuk\ Pemula_v720P.mp4
+cd ~/Downloads
+ls
+view kunci-gitar.jpg
+cd ~/Downloads
+ls
+mpv y2mate.com\ -\ Chord\ Gampang\ Ripped\ Pants\ Spongebob\ by\ Arya\ Nara\ Tutorial\ Gitar\ Untuk\ Pemula_v720P.mp4
+sudo poweroff
+cd ~/Downloads
+ls
+mpv Chord\ Gampang\ \(Di\ Atas\ Normal\ -\ Peterpan\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4
+cd ~/Downloads
+ls
+mpv y2mate.com\ -\ Chord\ Gampang\ Ripped\ Pants\ Spongebob\ by\ Arya\ Nara\ Tutorial\ Gitar\ Untuk\ Pemula_v720P.mp4
+mpv Chord\ Gampang\ \(Di\ Atas\ Normal\ -\ Peterpan\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4 
+mpv Chord\ Gampang\ \(Di\ Atas\ Normal\ -\ Peterpan\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4 
+mpv Chord\ Gampang\ \(Di\ Atas\ Normal\ -\ Peterpan\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4 
+mpv y2mate.com\ -\ Chord\ Gampang\ Ripped\ Pants\ Spongebob\ by\ Arya\ Nara\ Tutorial\ Gitar\ Untuk\ Pemula_v720P.mp4
+mpv y2mate.com\ -\ Chord\ Gampang\ Ripped\ Pants\ Spongebob\ by\ Arya\ Nara\ Tutorial\ Gitar\ Untuk\ Pemula_v720P.mp4
+sudo poweroff
+cd ~/Downloads
+ls
+mpv y2mate.com\ -\ Chord\ Gampang\ Ripped\ Pants\ Spongebob\ by\ Arya\ Nara\ Tutorial\ Gitar\ Untuk\ Pemula_v720P.mp4
+mpv y2mate.com\ -\ Chord\ Gampang\ Ripped\ Pants\ Spongebob\ by\ Arya\ Nara\ Tutorial\ Gitar\ Untuk\ Pemula_v720P.mp4
+mpv y2mate.com\ -\ Chord\ Gampang\ Ripped\ Pants\ Spongebob\ by\ Arya\ Nara\ Tutorial\ Gitar\ Untuk\ Pemula_v720P.mp4
+mpv y2mate.com\ -\ Chord\ Gampang\ Ripped\ Pants\ Spongebob\ by\ Arya\ Nara\ Tutorial\ Gitar\ Untuk\ Pemula_v720P.mp4
+ls
+view kunci-gitar.jpg
+ls
+rm mpv-shot0001.jpg mpv-shot0002.jpg mpv-shot0003.jpg 
+ls
+mpv y2mate.com\ -\ Chord\ Gampang\ Ripped\ Pants\ Spongebob\ by\ Arya\ Nara\ Tutorial\ Gitar\ Untuk\ Pemula_v720P.mp4
+mpv y2mate.com\ -\ Chord\ Gampang\ Ripped\ Pants\ Spongebob\ by\ Arya\ Nara\ Tutorial\ Gitar\ Untuk\ Pemula_v720P.mp4
+sudo poweroff
+cd .dotfiles
+ls
+status
+cd D
+cd Downloads
+ls
+mpv Chord\ Gampang\ \(Celengan\ Rindu\ -\ Fiersa\ Besari\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4 \\
+
+mpv Chord\ Gampang\ \(Celengan\ Rindu\ -\ Fiersa\ Besari\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4 \\
+
+mpv y2mate.com\ -\ Chord\ Gampang\ CRAYON\ SINCHAN\ by\ Arya\ Nara\ Tutorial_v720P.mp4
+mpv Chord\ Gampang\ \(Celengan\ Rindu\ -\ Fiersa\ Besari\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4 \\
+
+cd Downloads
+ls
+mpv y2mate.com\ -\ Chord\ Gampang\ Ripped\ Pants\ Spongebob\ by\ Arya\ Nara\ Tutorial\ Gitar\ Untuk\ Pemula_v720P.mp4
+mpv Chord\ Gampang\ \(Celengan\ Rindu\ -\ Fiersa\ Besari\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4 \\
+
+sudo poweroff
+sudo poweroff
+cd Downloads
+ls
+mpv Chord\ Gampang\ \(Celengan\ Rindu\ -\ Fiersa\ Besari\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4 \\
+
+mpv Chord\ Gampang\ \(Celengan\ Rindu\ -\ Fiersa\ Besari\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4 \\
+
+mpv Chord\ Gampang\ \(Celengan\ Rindu\ -\ Fiersa\ Besari\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4 \\
+
+cd Downloads
+mpv Chord\ Gampang\ \(Celengan\ Rindu\ -\ Fiersa\ Besari\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4 \\
+
+mpv Chord\ Gampang\ \(Celengan\ Rindu\ -\ Fiersa\ Besari\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4 \\
+
+ls
+pkill picom
+ls
+cd suckless/dwm
+ls
+nvim config.def.h
+nvim config.def.h
+nvim config.def.h
+rm config.h; sudo make clean install
+nvim config.def.h
+rm config.h; sudo make clean install
+rm config.h; sudo make clean install
+nvim config.def.h
+rm config.h; sudo make clean install
+cd nvim
+ls
+cd picom
+ls
+~
+ls
+cd ~
+ls
+cd .config
+ls
+picom
+pkill picom
+picom --experimental-backends
+cd .dotfiles
+ls
+cd .config
+ls
+cd picom
+ls
+..
+..
+ls
+stow .
+cd picom
+ls
+nvim config.def.h
+ls
+nvim picom.conf
+picom --experimental-backends
+pkill picom
+picom --experimental-backends
+picom --experimental-backends
+cd picom
+ls
+nvim picom.conf
+picom --experimental-backends
+pkill picom
+picom --experimental-backends
+picom --experimental-backends
+picom --experimental-backends
+cd picom
+ls
+nvim picom.conf
+picom --experimental-backends
+rm config.h; sudo make clean install
+startx .config/X11/xinitrc
+startx .config/X11/xinitrc
+startx .config/X11/xinitrc
+startx .config/X11/xinitrc
+sudo poweroff
+cd Downloads
+ls
+mpv y2mate.com\ -\ Chord\ Gampang\ Ripped\ Pants\ Spongebob\ by\ Arya\ Nara\ Tutorial\ Gitar\ Untuk\ Pemula_v720P.mp4
+ls
+mpv Chord\ Gampang\ \(Di\ Atas\ Normal\ -\ Peterpan\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4
+cd Downloads
+mpv Chord\ Gampang\ \(Celengan\ Rindu\ -\ Fiersa\ Besari\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4
+ls
+mpv Chord\ Gampang\ \(Celengan\ Rindu\ -\ Fiersa\ Besari\)\ by\ Arya\ Nara\ \(Tutorial\ Gitar\)\ Untuk\ Pemula.mp4
+sudo poweroff
+sudo poweroff
+ls
+sudo poweroff
+nmtui
+sudo nmtui
+ls
+ls
+ping google.com
+ping google.com
+sudo nmtui
+sudo nmtui
+ping google.com
+nmtui
+nmtui
+nmtui
+nmtui
+nmtui
+ping google.com
+sudo nmtui
+sudo nmtui
+sudo nmtui
+nmtui
+nmtui
+nmtui
+su
+nmtui
+sudo nmtui
+poweroff
+sudo poweroff
+startx .config/X11/xinitrc
+cd Downloads
+ls
+mpv y2mate.com\ -\ Chord\ Gampang\ Kala\ Cinta\ Menggoda\ NOAH\ by\ Arya\ Nara\ Tutorial\ Gitar\ Pemula_720pFHR.mp4
+sudo poweroff
+sudo poweroff
+cd Downloads
+mpv y2mate.com\ -\ Chord\ Gampang\ Kala\ Cinta\ Menggoda\ NOAH\ by\ Arya\ Nara\ Tutorial\ Gitar\ Pemula_720pFHR.mp4
+ls
+cd .dotfiles
+ls
+cd .local
+ls
+cd bin
+ls
+groups
+ls
+..
+ls
+cd share
+ls
+..
+ls
+~
+ls
+cd D
+rm Desktop
+cd Downloads
+ls
+ls
+cd repos
+ls
+cd .config
+ls
+cd picom
+ls
+cd picom
+ls
+nvim picom.conf
+ls
+cd suckless
+ls
+cd dwm
+ls
+nvim config.def.h
+rm config.h; sudo make clean install
+paru -Syu
+cd Downloads
+ls
+mpv y2mate.com\ -\ Chord\ Gampang\ Kala\ Cinta\ Menggoda\ NOAH\ by\ Arya\ Nara\ Tutorial\ Gitar\ Pemula_720pFHR.mp4
+l
+ls
+ls
+nvim belajar mengetik
+ls
+cd Downloads
+ls
+..
+ls
+sudo poweroff
+ls
+nmtui
+nvim
+cd sxhkd
+nvim sxhkdrc
+nmtui
+nvim a
+paru -S nerd-fonts-tinos
+paru -S nerd-fonts-tinos
+sudo poweroff
+sudo poweroff
+sudo poweroff
+ls
+sudo poweroff
+cd Downloads
+ls
+ls
+rm Tinos.zip
+view WhatsApp\ Image\ 2022-08-04\ at\ 1
+view WhatsApp\ Image\ 2022-08-04\ at\ 13.49.06.jpeg
+view WhatsApp\ Image\ 2022-08-04\ at\ 14.18.21.jpeg
+view WhatsApp\ Image\ 2022-08-04\ at\ 14.31.47.jpeg
+view WhatsApp\ Image\ 2022-08-04\ at\ 14.31.47.jpeg
+view WhatsApp\ Image\ 2022-08-04\ at\ 14.18.21.jpeg
+view WhatsApp\ Image\ 2022-08-04\ at\ 14.31.47.jpeg
+ls
+mv thingking\ about\ crush\ or\ uncrush.jpg thingking\ about\ crush\ or\ uncrush.png
+view thingking\ about\ crush\ or\ uncrush.png
+ls
+sudo poweroff
+sudo poweroff
+sudo poweroff
+ls
+nmtui
+sudo nmtui
+cd .emacs.d
+ls
+cd personal
+ls
+cd tugas
+ls
+rm \#sript-video.org\# .\#sript-video.org
+nvim tugas-video
+sudo poweroff
+sudo poweroff
+cd personal/pix/ss
+ls
+view 2022-08-09-1660050349-Screenshot
+mv  2022-08-09-1660050349-Screenshot 2022-08-09-1660050349-Screenshot.png
+ls
+~
+ls
+cd .local
+ls
+ls
+cd bin
+l
+ls
+nvim screenshot
+cd per
+cd ~/personal
+ls
+cd tugas
+ls
+nvim tugas-bindo
+sudo poweroff
+sudo poweroff
+ls
+cd Downloads
+ls
+rm kala\ cinta\ menggoda.com
+ls
+sudo poweroff

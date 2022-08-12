@@ -3,16 +3,16 @@
 /* appearance */
 static const unsigned int borderpx  = 3.5;        /* border pixel of windows */
 static const unsigned int snap      = 32;       /* snap pixel */
-static const unsigned int gappx     = 7;        /* gaps between windows */
+static const unsigned int gappx     = 0;        /* gaps between windows */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { "fira code nerd font:size=12.5" };
 static const char dmenufont[]       = "fira code nerd font:size=12.5";
-static const char col_gray1[]       = "#222222";
+static const char col_gray1[]       = "#2e3440";
 static const char col_gray2[]       = "#444444";
 static const char col_gray3[]       = "#bbbbbb";
-static const char col_gray4[]       = "#2e3440";
-static const char col_cyan[]        = "#88c0d0";
+static const char col_gray4[]       = "#bbbbbb";
+static const char col_cyan[]        = "#434c5e";
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
 	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },
