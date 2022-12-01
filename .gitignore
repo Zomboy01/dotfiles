@@ -4,3 +4,6 @@
 /.config/git/
 /.emacs.d/
 
+
+.config/zsh/zsh_history
+.config/zsh/.zcompdump
