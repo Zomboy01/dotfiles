@@ -24,6 +24,7 @@ alias umountusb="sudo umount /dev/sdb1"
 alias ejectusb="sudo eject /dev/sdb"
 
 #git
+alias lg="lazygit"
 alias status="git status"
 alias push="git push origin"
 alias pull="git pull origin"
@@ -31,10 +32,6 @@ alias commit="git commit -m"
 alias add="git add "
 alias gitname="git config --global user.name  "Zomboy""
 alias gitmail="git config --global user.email "zomboy001.mail@tuta.io""
-alias ginit="git init"
-alias remote="git remote add origin"
-alias config="/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME"
-alias wm="/usr/bin/git --git-dir=$HOME/.local/git/windowmanagers/ --work-tree=$HOME"
 
 #editor
 alias nv="nvim"
