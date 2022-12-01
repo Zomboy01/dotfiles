@@ -12,7 +12,10 @@ alias ~="cd ~"
 alias view="nsxiv -f"
 
 #Gnu Coreutilities
-alias rm="sudo rm -r"
+alias rml="trash-list"
+alias rmr="trash-restore"
+alias rmc="trash-empty"
+alias rm="trash"
 alias cp="cp -r"
 
 #to lazy to tyze usb command
