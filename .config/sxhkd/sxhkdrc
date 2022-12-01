@@ -9,6 +9,14 @@ super + shift + s
 super + b
   firefox
 
+# Files
+super + f 
+  nautilus
+
+# rofi
+super + d
+  rofi -show drun -theme full
+
 # emacs
 alt + e
   pkill emacs ; emacs --daemon &
