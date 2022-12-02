@@ -27,8 +27,11 @@ setopt extendedglob
 #setopt autocd
 cdpath=(/ $HOME/.config $HOME/.local)
 
-### ---------- OTHER ----------###
+### ---------- History file ----------###
 
 HISTSIZE=10000
 SAVEHIST=10000
 HISTFILE=~/.config/zsh/zsh_history
+
+### ---------- Fetch ----------###
+nitch 
