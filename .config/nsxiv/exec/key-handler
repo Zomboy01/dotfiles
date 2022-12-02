@@ -1,0 +1,10 @@
+#!/bin/sh
+
+while read file 
+do
+  case "$1" in
+   "w") xwallpaper --zoom $file ;;
+   "C-c") xclip -selection clipboard -target image/png "$file"; done ;;
+   "d") trash "$file" ;;
+  esac
+done
