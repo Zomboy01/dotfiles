@@ -6,4 +6,5 @@ case "$1" in
   *) maim "$output" || exit ;;
 esac
 
-#notify-send "Screenshot taken"
+notify-send "Screenshot taken" -i "camera"
+paplay ~/.local/share/sounds/camera.ogg
