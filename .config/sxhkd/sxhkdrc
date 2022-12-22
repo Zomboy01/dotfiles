@@ -1,50 +1,47 @@
-# screenshot
+#description: screenshot selesct
 super + s
   screenshot select
 
+#description: screenshot selesct
 super + shift + s
-  screenshot
+  screenshot window
 
-# browser
+#description: browser
 super + b
   firefox
 
-# Files
-super + f 
+#description: Files
+super + e 
   nautilus
 
-# rofi
+#description: rofi
 super + d
-  rofi -show drun -theme full
+  rofi -show drun 
 
-# emacs
-alt + e
-  pkill emacs ; emacs --daemon &
-
-super + e
-  emacsclient -c
-
-# passmenu
+#description: passmenu
 alt + p
   passmenu -l 25
 
-# sound
+#description: volume +
 alt + l
-  pamixer --allow-boost -i 2
+  change-volume up 
 
+#description: volume - 
 alt + h
-  pamixer --allow-boost -d 2
+  change-volume down
 
+#description: mute 
 XF86AudioMute
-  pamixer -t
+  change-volume mute
 
-# light
+#description: brightness + 
 alt + k
-  brillo -A 5 -q -u 300000
+  change-brightness up 
 
+#description: brightness - 
 alt + j
-  brillo -U 5 -q -u 300000
+  change-brightness down
 
-# make sxhkd reload its configuration files
+#description: restart sxhkd  
 super + Escape
         pkill -USR1 -x sxhkd
