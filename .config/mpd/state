@@ -1,0 +1,220 @@
+sw_volume: 100
+audio_device_state:1:pulseaudio
+audio_device_state:1:Visualizer
+state: play
+current: 105
+time: 0.000000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:happy!/Bruno Mars - That's What I Like.mp3
+1:happy!/dkj - Aces.mp3
+2:happy!/alt-J - Breezeblocks.mp3
+3:happy!/WILLOW - Wait a Minute!.mp3
+4:happy!/Beach Bunny - Cloud 9 (feat. Tegan and Sara).mp3
+5:happy!/Tipe-X - Kamu Nggak Sendirian.mp3
+6:happy!/DNCE - Cake By The Ocean.mp3
+7:happy!/Payung Teduh - Angin Pujaan Hujan.mp3
+8:happy!/JAWNY - Honeypie.mp3
+9:happy!/Calvin Harris, Funk Wav - Feels (feat. Pharrell Williams, Katy Perry & Big Sean).mp3
+10:happy!/Superfruit - GUY.exe.mp3
+11:happy!/Dua Lipa - Levitating (feat. DaBaby).mp3
+12:happy!/Pharrell Williams - Happy - From 'Despicable Me 2'.mp3
+13:happy!/Don Toliver - No Idea.mp3
+14:happy!/Michael Jackson - Rock With You.mp3
+15:happy!/Doja Cat - Like That (feat. Gucci Mane).mp3
+16:happy!/Capital Cities - Safe And Sound.mp3
+17:happy!/HoneyWorks, Capi - Kawaikutegomen.mp3
+18:happy!/The Changcuters - Racun Dunia.mp3
+19:happy!/The Changcuters - Hijrah Ke London.mp3
+20:happy!/MKTO - Classic.mp3
+21:happy!/Brooksie - Not Into You.mp3
+22:happy!/natori - Overdose.mp3
+23:happy!/ST12 - Cari Pacar Lagi.mp3
+24:happy!/Lagu Tergalau - Pesawat Kertas 365.mp3
+25:happy!/Earth, Wind & Fire - Let's Groove.mp3
+26:happy!/Olly Murs - Troublemaker (feat. Flo Rida).mp3
+27:happy!/Arizona Zervas - ROXANNE.mp3
+28:happy!/Peterpan - Walau Habis Terang.mp3
+29:happy!/Scott Bradlee's Postmodern Jukebox, Haley Reinhart - Habits.mp3
+30:happy!/Maroon 5, Christina Aguilera - Moves Like Jagger.mp3
+31:happy!/Tipe-X - Genit.mp3
+32:happy!/Studio Yuraki - Tabibito no Uta (from 'Jobless Reincarnation').mp3
+33:happy!/Meghan Trainor - Made You Look.mp3
+34:happy!/Katy Perry, Snoop Dogg - California Gurls.mp3
+35:happy!/NF - The Search.mp3
+36:happy!/K'NAAN, Adam Levine - Bang Bang.mp3
+37:happy!/The Changcuters - Parampampam.mp3
+38:happy!/Bruno Mars - Treasure.mp3
+39:happy!/Kesha - Die Young.mp3
+40:my-love/Queen - Good Old-Fashioned Lover Boy - Remastered 2011.mp3
+41:my-love/Arctic Monkeys - I Wanna Be Yours.mp3
+42:my-love/Rex Orange County - Television  So Far So Good.mp3
+43:my-love/Steve Lacy - Bad Habit.mp3
+44:my-love/Mitski - Me and My Husband.mp3
+45:my-love/FINNEAS - Let's Fall in Love for the Night.mp3
+46:my-love/IV Of Spades - Come Inside Of My Heart.mp3
+47:my-love/Coyote Theory - This Side of Paradise.mp3
+48:my-love/Melanie Martinez - Training Wheels.mp3
+49:my-love/Melanie Martinez - Play Date.mp3
+50:my-love/Steve Lacy - Dark Red.mp3
+51:my-love/Glass Animals - Heat Waves.mp3
+52:my-love/Payung Teduh - Angin Pujaan Hujan.mp3
+53:my-love/Stephen Sanchez - Until I Found You.mp3
+54:my-love/Cody Fry - I Hear a Symphony.mp3
+55:my-love/The Rah Band - Messages from the Stars.mp3
+56:my-love/A-Wall - Loverboy.mp3
+57:my-love/Fujii Kaze - Shinunoga E-Wa.mp3
+58:my-love/d4vd - Here With Me.mp3
+59:my-love/Keane - Somewhere Only We Know.mp3
+60:my-love/Clairo - Sofia.mp3
+61:my-love/Jimmy band - Karena Kamu Cuma Satu Untuk Kuuu.mp3
+62:my-love/Joy Again - Looking Out for You.mp3
+63:my-love/Miki Matsubara - Mayonaka no Door  Stay With Me.mp3
+64:my-love/Indila - Love Story.mp3
+65:my-love/Ricky Montgomery - Line Without a Hook.mp3
+66:my-love/Paramore - Still into You.mp3
+67:my-love/Kali Uchis - Melting.mp3
+68:my-love/Kali Uchis - telepatía.mp3
+69:my-love/Eyedress, Dent May - Something About You.mp3
+70:my-love/Maroon 5 - Sunday Morning.mp3
+71:my-love/Cults - Always Forever.mp3
+72:my-love/Steven Universe - Love Like You (feat. Rebecca Sugar) - End Credits.mp3
+73:my-love/Cafuné - Tek It - Sped Up.mp3
+74:my-love/Cafuné - Tek It.mp3
+75:my-love/Dialog Dini Hari - Lagu Cinta (feat. Kartika Jahja).mp3
+76:my-love/JVKE - this is what falling in love feels like.mp3
+77:my-love/Mac DeMarco - For the First Time.mp3
+78:my-love/Stephen Sanchez - Until I Found You (with Em Beihold) - Em Beihold Version.mp3
+79:my-love/girl in red - we fell in love in october.mp3
+80:sad-things/Cavetown - Juliet.mp3
+81:sad-things/Clairo - Bubble Gum.mp3
+82:sad-things/Coyote Theory - This Side of Paradise.mp3
+83:sad-things/Hozier - Take Me To Church.mp3
+84:sad-things/The Walters - I Love You So.mp3
+85:sad-things/The Walters - I Love You So - Acoustic.mp3
+86:sad-things/Conan Gray - Heather.mp3
+87:sad-things/Hindia - Secukupnya.mp3
+88:sad-things/itssvd, CORBAL, Shiloh Dynasty, Dibyo - Losing Interest.mp3
+89:sad-things/d4vd - Romantic Homicide.mp3
+90:sad-things/Seafret - Atlantis.mp3
+91:sad-things/Vacations - Young.mp3
+92:indo-vibes/Ungu, Andien - Saat Bahagia.mp3
+93:indo-vibes/eńau - Negara Lucu.mp3
+94:indo-vibes/eńau - Krisis Solusi.mp3
+95:indo-vibes/sind3ntosca - Kepompong.mp3
+96:indo-vibes/Adhitia Sofyan - Sesuatu Di Jogja.mp3
+97:indo-vibes/Dhyo Haw - Ada Aku Disini.mp3
+98:indo-vibes/Dadido - Aca Aca Nehi Nehi.mp3
+99:indo-vibes/Jason Ranti - Variasi Pink.mp3
+100:indo-vibes/Hindia - Aku Rasa Kita Selamanya.mp3
+101:indo-vibes/Achie Restie - Aku Tak Ingin Menangis.mp3
+102:indo-vibes/Ebiet G. Ade - Elegi Esok Pagi.mp3
+103:indo-vibes/Andra & The Backbone - Sempurna.mp3
+104:indo-vibes/Superman Is Dead - Kuat Kita Bersinar.mp3
+105:indo-vibes/Reality Club - Anything You Want.mp3
+106:indo-vibes/Raavfy - Badut - Extended Version.mp3
+107:indo-vibes/Kahitna - Cantik.mp3
+108:indo-vibes/Iksan Skuter - Bingung.mp3
+109:indo-vibes/Hindia - No One Will Find Me.mp3
+110:indo-vibes/Gombloh - Kugadaikan Cintaku.mp3
+111:indo-vibes/Rocket Rockers - Ingin Hilang Ingatan.mp3
+112:indo-vibes/Noah - Diatas Normal.mp3
+113:indo-vibes/Nidji - Disco Lazy Time.mp3
+114:indo-vibes/Gamma1 - Bukan Cinta 1 Atau 2.mp3
+115:indo-vibes/Chrisye - Kala Cinta Menggoda.mp3
+116:indo-vibes/Diskoria, Laleilmanino, Eva Celia - C.H.R.I.S.Y.E..mp3
+117:indo-vibes/Potret - Bagaikan Langit.mp3
+118:indo-vibes/Karnamereka - Cerita Malam.mp3
+119:indo-vibes/Andmesh - Nyaman.mp3
+120:indo-vibes/Rizky Febian - Cuek.mp3
+121:indo-vibes/Saleem - Tinggal Kenangan.mp3
+122:indo-vibes/Masdo - Dinda.mp3
+123:indo-vibes/Tipe-X - Kamu Nggak Sendirian.mp3
+124:indo-vibes/Remember of Today - Pergi Hilang Dan Lupakan.mp3
+125:indo-vibes/Last Child - Duka.mp3
+126:indo-vibes/Payung Teduh - Angin Pujaan Hujan.mp3
+127:indo-vibes/Payung Teduh - Resah.mp3
+128:indo-vibes/Fourtwnty - Zona Nyaman (From 'Filosofi Kopi 2- Ben & Jody').mp3
+129:indo-vibes/Fourtwnty - Realita.mp3
+130:indo-vibes/Okin, Ocan Siagian - Ekspektasi.mp3
+131:indo-vibes/Last Child - Diary Depresiku.mp3
+132:indo-vibes/Bondan Prakoso, Fade2Black - Ya Sudahlah.mp3
+133:indo-vibes/Dewa 19 - Aku Milikmu.mp3
+134:indo-vibes/Kunto Aji - Terlalu Lama Sendiri.mp3
+135:indo-vibes/Armada - Mau Dibawa Kemana.mp3
+136:indo-vibes/Skinnyfabs - happy.mp3
+137:indo-vibes/Anda - Menghitung Hari 2.mp3
+138:indo-vibes/Nosstress, Dadang Sh Pranoto, Deny Surya - Semoga, Ya.mp3
+139:indo-vibes/Nosstress, Fendy Rizk, Wayan Sanjaya - Ya, Kamu.mp3
+140:indo-vibes/The Rain - Gagal Bersembunyi.mp3
+141:indo-vibes/The Rain - Terlatih Patah Hati.mp3
+142:indo-vibes/Masdo - Janji Manis.mp3
+143:indo-vibes/Raavfy - Jancok.mp3
+144:indo-vibes/Feast - Kami Belum Tentu.mp3
+145:indo-vibes/Jimmy band - Karena Kamu Cuma Satu Untuk Kuuu.mp3
+146:indo-vibes/eńau - Keranjang.mp3
+147:indo-vibes/Hivi! - Remaja.mp3
+148:indo-vibes/Hivi!, Andi Rianto - Siapkah Kau 'Tuk Jatuh Cinta Lagi.mp3
+149:indo-vibes/Nexgen - Kesan Pertama.mp3
+150:indo-vibes/Nidji - Laskar Pelangi.mp3
+151:indo-vibes/Sheila On 7 - Sebuah Kisah Klasik.mp3
+152:indo-vibes/Lyla - Lebih Dari Bintang.mp3
+153:indo-vibes/Fourtwnty - Fana Merah Jambu.mp3
+154:indo-vibes/Bravesboy - Putuskan Saja Pacarmu.mp3
+155:indo-vibes/The Panturas - Gurita Kota.mp3
+156:indo-vibes/The Panturas - Sunshine.mp3
+157:indo-vibes/Tulus - Hati-Hati di Jalan.mp3
+158:indo-vibes/Sal Priadi - Mesra-mesraannya kecil-kecilan dulu.mp3
+159:indo-vibes/Budi Doremi - Melukis Senja.mp3
+160:indo-vibes/Hindia - Secukupnya.mp3
+161:indo-vibes/Hindia - Rumah Ke Rumah.mp3
+162:indo-vibes/Hindia, Natasha Udu, Kamga - Mata Air.mp3
+163:indo-vibes/Hindia - Evaluasi.mp3
+164:indo-vibes/The Changcuters - Racun Dunia.mp3
+165:indo-vibes/The Changcuters - Hijrah Ke London.mp3
+166:indo-vibes/The Changcuters - I Love U Bibeh.mp3
+167:indo-vibes/Sheila On 7 - Lapang Dada.mp3
+168:indo-vibes/Jamrud - Surti Tejo.mp3
+169:indo-vibes/The Panturas - Tafsir Mistik.mp3
+170:indo-vibes/Last Child, Gisel - Seluruh Nafas Ini.mp3
+171:indo-vibes/ST12 - Cari Pacar Lagi.mp3
+172:indo-vibes/Hal - L.mp3
+173:indo-vibes/Nosstress - Buka Hati.mp3
+174:indo-vibes/Nosstress - Tanam Saja.mp3
+175:indo-vibes/D’MASIV - Cinta Ini Membunuhku.mp3
+176:indo-vibes/Lagu Tergalau - Pesawat Kertas 365.mp3
+177:indo-vibes/Daun Jatuh - Resah Jadi Luka.mp3
+178:indo-vibes/Iqbaal Ramadhan - Rindu Sendiri (Dilan 1990).mp3
+179:indo-vibes/Fabio Asher - Rumah Singgah.mp3
+180:indo-vibes/Armada - Mabuk Cinta.mp3
+181:indo-vibes/Peterpan - Mimpi Yang Sempurna.mp3
+182:indo-vibes/Jason Ranti - Lagunya Begini, Nadanya Begitu.mp3
+183:indo-vibes/Jason Ranti - Sekilas Info.mp3
+184:indo-vibes/Killing Me Inside - Biarlah.mp3
+185:indo-vibes/Sal Priadi - Serta Mulia.mp3
+186:indo-vibes/Hivi! - Siapkah Kau 'Tuk Jatuh Cinta Lagi.mp3
+187:indo-vibes/Jaz - Berdua Bersama.mp3
+188:indo-vibes/Tipe-X - Genit.mp3
+189:indo-vibes/Vierra - Seandainya.mp3
+190:indo-vibes/Ardhito Pramono - Sudah - Story of Kale - Original Motion Picture Soundtrack.mp3
+191:indo-vibes/T.R.I.A.D - Selir Hati.mp3
+192:indo-vibes/Raavfy - Tak Terlahir Goodlooking.mp3
+193:indo-vibes/Danilla - Senja Di Ambang Pilu.mp3
+194:indo-vibes/Dialog Dini Hari - Lagu Cinta (feat. Kartika Jahja).mp3
+195:indo-vibes/The Rain, Endank Soekamti - Terlatih Patah Hati.mp3
+196:indo-vibes/Rizky Febian, Ziva Magnolya - Terlukis Indah.mp3
+197:indo-vibes/The Changcuters - Main Serong.mp3
+198:indo-vibes/Peterpan - Walau Habis Terang.mp3
+199:indo-vibes/White Shoes & The Couples Company - Senandung Maaf.mp3
+200:indo-vibes/Nidji - Biarlah.mp3
+201:indo-vibes/The Changcuters - Parampampam.mp3
+202:indo-vibes/eńau - Warung Kopi.mp3
+203:indo-vibes/Yovie & Nuno - Merindu Lagi (Pada Kekasih Orang).mp3
+204:indo-vibes/Yura Yunita, Glenn Fredly - Cinta Dan Rahasia.mp3
+playlist_end
