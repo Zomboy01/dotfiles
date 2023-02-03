@@ -12,7 +12,7 @@ usr/bin/pipewire &
 usr/bin/pipewire-pulse &
 usr/bin/pipewire-media-session &
 
-xwallpaper --zoom $HOME/personal/photos\ \&\ videos/Wallpapers/nord-theme/GMV5L7.jpg &
+random-wallpaper &
 
 #dunst
 dunst &
