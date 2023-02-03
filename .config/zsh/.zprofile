@@ -3,4 +3,3 @@ if [[ "$(tty)" = "/dev/tty1" ]]; then
 fi
 
 eval "$(completion -s zsh)"
-
