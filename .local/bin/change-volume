@@ -27,4 +27,3 @@ mute)
 	;;
 esac
 
-paplay ~/.local/share/sounds/beep.ogg
