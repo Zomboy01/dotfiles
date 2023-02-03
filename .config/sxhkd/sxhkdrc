@@ -10,9 +10,9 @@ super + shift + s
 super + b
   firefox
 
-#description: Files
-super + e 
-  nautilus
+#description: Emacs-CLient 
+alt + e 
+  emacs --daemon 
 
 #description: rofi
 super + d
