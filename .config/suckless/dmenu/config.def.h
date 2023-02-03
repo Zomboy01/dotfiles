@@ -4,13 +4,13 @@
 static int topbar = 1;                      /* -b  option; if 0, dmenu appears at bottom     */
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
-	"Fira code nerd font:style=bold:size=12.5"
+	"Fira code nerd font:size=12.5"
 };
 static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */
 static const char *colors[SchemeLast][2] = {
 	/*     fg         bg       */
-	[SchemeNorm] =          { "#bbbbbb", "#222222" },
-	[SchemeSel] =           { "#2e3440", "#88c0d0" },
+	[SchemeNorm] =          { "#bbbbbb", "#2e3440" },
+	[SchemeSel] =           { "#bbbbbb", "#434c5e" },
 	[SchemeSelHighlight] =  { "#2e3440", "#88c0d0" },
 	[SchemeNormHighlight] = { "#2e3440", "#88c0d0" },
 	[SchemeOut] =           { "#000000", "#00ffff" },
