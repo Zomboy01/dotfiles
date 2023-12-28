@@ -4,7 +4,15 @@ super + s
 
 #description: screenshot selesct
 super + shift + s
-  screenshot window
+  screenshot full
+
+#description: powermenu
+super + shift + x
+  dpower
+
+#description: file
+super + e
+  pcmanfm 
 
 #description: browser
 super + b
@@ -17,10 +25,6 @@ alt + e
 #description: rofi
 super + d
   rofi -show drun 
-
-#description: passmenu
-alt + p
-  passmenu -l 25
 
 #description: volume +
 alt + l
@@ -41,6 +45,13 @@ alt + k
 #description: brightness - 
 alt + j
   change-brightness down
+
+#description: Media keys 
+alt + {Prior,Next}
+  playerctl {previous,next}
+
+alt + End
+  playerctl play-pause
 
 #description: restart sxhkd  
 super + Escape
